@@ -1,0 +1,10 @@
+.big-title-box{
+    font-size: 4rem;
+    line-height: 1;
+    span{
+        display: block;
+        background: linear-gradient(to right,  #17b2ea 0%,#21b4e2 49%,#71ceef 50%,#b7deed 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}

@@ -14,7 +14,7 @@ const Header = () => {
     <header>
         <div className="content-inner">
             <div className="header-left">
-                <h1 className="logo"><a href=""><img src="" alt="logo" /></a></h1>
+                <h1 className="logo"><a href="#"><img src="" alt="logo" /></a></h1>
                 <nav>
                     <ul>
                         {menus.map((menu) => (
